@@ -1,0 +1,7 @@
+p = float(3.7)
+r  = float(5.2)
+u = float(-5)
+x = float(3)
+y = float(4)
+z = float(2.4)
+print(p,r,u,x,y,z)
